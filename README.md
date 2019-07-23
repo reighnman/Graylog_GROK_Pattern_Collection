@@ -1,5 +1,7 @@
 # GROK Pattern Collection
 
+**UPDATED FOR 3.0.2, the final 2.0.x version is tagged 2.0**
+
 This is a collection of GROK patterns to help get going.
 
 Currently included:
